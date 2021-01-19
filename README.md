@@ -23,7 +23,7 @@ Prequisites
 	* Follow the guide at https://www.vagrantup.com/intro/getting-started/index.html
 	* Use the Vagrantfile we provide
 * The Code
-	* Install from github where you are reading this
+	* Install from github (See Install at end) where you are reading this
 * Virtualbox (on MacOS and Linux)
 	* Simply download and install.
 	* Minimum spec. https://www.virtualbox.org/wiki/End-user_documentation
@@ -116,6 +116,26 @@ https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/e
 * Minimum of 4 GB memory.
 
 If you cannot then use virtualbox as per the instructions from vagrant - I don't have Windows so perhaps just use Virtualbox.
+
+Installing from Github
+=========================
+
+Okay for those that dont know how to install from github
+
+In a browser go to
+
+https://github.com/shaunlaughey/supercoolapitest/archive/main.zip
+
+Save it somewhere and unzip it.
+
+This will now be where you will run your command/terminal from now on.
+
+So if you save and unzip it to your desktop you would open a command prompt on your desktop.
+
+
+
+
+
 
 
 
